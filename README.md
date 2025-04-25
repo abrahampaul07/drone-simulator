@@ -17,7 +17,7 @@ This project is about drone simulation, where we set the coordinates(latitude & 
 ### 37.7767	-122.4075
 ### 37.777	-122.406
 
-## If you want to enter ther coordinates manually, in the app, add latitude and longitude coordinates one by one (for example, add the above all coordinates) and click in add coordinates and start the simulation
+## If you want to enter ther coordinates manually, in the app, add latitude and longitude coordinates one by one (for example, add the above all coordinates) and click on the button "add coordinates" and start the simulation
 
 # This project is deployed in Vercel 
 ## Link : https://vercel.com/abrahampaul07s-projects/drone-simulator/Eqtrh1qBzosXjKQ7wpV6b4fnhmoC
