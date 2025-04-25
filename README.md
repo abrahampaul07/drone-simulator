@@ -1,12 +1,18 @@
-# React + Vite
+# Drone simutalor
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## This project is developed using ReactJs Vite
+This project is about drone simulation, where we set the coordinates(latitude & longitude) for path.
 
-Currently, two official plugins are available:
+## We can set the coordinates either using a csv file or can manually enter the coordinator
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# CSV (Example) - Create a file in notepad and save it as xyz.csv extension
+37.7749	-122.4194
+37.775	-122.418
+37.7752	-122.4165
+37.7755	-122.415
+37.7758	-122.4135
+37.776	-122.412
+37.7762	-122.4105
+37.7765	-122.409
+37.7767	-122.4075
+37.777	-122.406
